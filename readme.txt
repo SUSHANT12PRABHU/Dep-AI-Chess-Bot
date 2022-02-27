@@ -15,3 +15,6 @@ Inspired by
 1) https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977
 2) https://byanofsky.com/2017/07/06/building-a-simple-chess-ai/
 3) https://projectworlds.in/
+
+Deployed on Heroku -
+https://depai-chess-bot.herokuapp.com/

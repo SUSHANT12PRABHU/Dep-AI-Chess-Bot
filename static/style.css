@@ -23,6 +23,7 @@ body {
     max-width: 800px;
     margin: 10px;
     min-height: 370px;
+    position: relative;
 }
 
 #moveTable {
