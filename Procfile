@@ -1,1 +1,1 @@
-web: python flask_app.py runserver 0.0.0.0:$PORT
+web: gunicorn --bind 0.0.0.0:$PORT flask_app:flask_app
